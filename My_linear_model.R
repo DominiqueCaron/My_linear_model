@@ -6,8 +6,8 @@
 ## If exact location is required, functions will be: `sim$.mods$<moduleName>$FunctionName`.
 defineModule(sim, list(
   name = "My_linear_model",
-  description = "",
-  keywords = "",
+  description = "Hey Dominique I changed this and added a keyword as you can see.",
+  keywords = "words",
   authors = structure(list(list(given = c("First", "Middle"), family = "Last", role = c("aut", "cre"), email = "email@example.com", comment = NULL)), class = "person"),
   childModules = character(0),
   version = list(My_linear_model = "0.0.0.9000"),
